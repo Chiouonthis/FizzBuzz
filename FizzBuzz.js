@@ -2,7 +2,7 @@ var fizzBuzz = function(){
 
 for (x = 0; x <101; x++) {
   if (x % 3 === 0 && x % 5 === 0) {
-  console.log("Fizzbuzz");
+  console.log("FizzBuzz");
   }
   else if (x % 3 === 0){
     console.log("Fizz");
