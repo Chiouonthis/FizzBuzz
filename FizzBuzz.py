@@ -1,4 +1,4 @@
-fizzArray = range(100)
+fizzArray = range(101)
 
 def fizzBuzzer(x):
 	for x in fizzArray:
